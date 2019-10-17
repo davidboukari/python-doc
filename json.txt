@@ -1,0 +1,1 @@
+cat myfile | python -m json.tool
